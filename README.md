@@ -1,2 +1,2 @@
-# k402xxxcenxxx.gihub.io
+# k402xxxcenxxx.github.io
 personal website
