@@ -51,3 +51,12 @@
 - Others
     - Kinect arcade game(Intern at IGS)
     - Fishing arcade game
+## Skill
+- Python
+- C/C++
+- Helm
+- Yaml
+- Bash Script
+## Language
+- Mandarin: native speaker
+- Engish: communicable
