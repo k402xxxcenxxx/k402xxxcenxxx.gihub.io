@@ -2,14 +2,22 @@
 ###### tags: `profile`
 > Taipei, Taiwan, [k402xxxcenxxx@gmail.com](mailto:k402xxxcenxxx@gmail.com)
 > https://k402xxxcenxxx.github.io/
+> 
+Versatile **Site Reliability Engineer** with comprehensive experience in **managing cross-regional cloud services** and **supporting application development** at Pricer. Expert in maintaining robust cloud infrastructure, including databases, and adept at implementing **SLO monitoring** for application backends. Demonstrated success in optimizing workflows, facilitating **resource migration across clusters**, and introducing improvements to the development process. Passionate about ensuring high system reliability and efficiency, seeking to contribute advanced technical skills in a challenging SRE position.
 ## Experience
+- Pricer AB [2023-Present]
+    - Site Reliability Engineer
+        - Maintained and optimized cross-regional cloud services, enhancing system reliability and performance.
+        - Supported application development, integrating backend SLO monitoring with cloud infrastructure management.
+        - Led a major workflow implementation for efficient resource migration between clusters, boosting operational effectiveness.
+        - Implemented developmental process improvements, contributing to increased productivity and system stability.
 - TSMC Corp. [2022-2023]
     - TSMC Network DevOps Engineer
         - Support distrubuted monitoring system design
             - Deploy test on local K8S cluster
             - Fluent-operator input extension and namespace-only-mode
             - Support SNMP, SNMP Trap, HTTP, Syslog simulator
-            - CML integration with CI pipeline for network device monitoring
+            - CML(Cisco Model Lab) integration with CI pipeline for network device monitoring
 - Inventec Corp. [2018-2022]
     - DevOps
         - Support a AI-insided pure-software Medical Device product
@@ -58,9 +66,15 @@
     - Pull request
     - Add support Mi Robot Vacuum-Mop 2 Pro
 - [Instagram effect-sandevistan-beta](https://www.instagram.com/ar/3358528731134175/)
-    - <video autoplay="" loop="" src="https://cdn.fbsbx.com/v/t65.23977-21/310110322_647291256910205_8999946308053563138_n.mp4?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=56eb5b&amp;_nc_ohc=nCNF0REJmuMAX-SOcdL&amp;_nc_oc=AQn1O6aR5s6Mzcpov9P4gitApk412fLBx4Sq74zs_cKG6MeE2u9r3kGGlsJUGRXYcqg&amp;_nc_ht=cdn.fbsbx.com&amp;oh=00_AfDa0hoAOOWnC5LbNCjNQMR57u6fvGFYzm6JvSMcgxGjqQ&amp;oe=647F7DDC" style="width: 269px; border-radius: 4px;"></video>
+    - <iframe src="https://drive.google.com/file/d/1tlFogATessj84TTlZCIOOLB1xnl2q3Ab/preview" width="640" height="480" allow="autoplay"></iframe>
     - Spark AR
     - Delay Frame
+- [Live2D avatar - Fatty](https://fatty-live2d.glitch.me/)
+    - ![](https://hackmd.io/_uploads/H1IXTchIh.png)
+    - <iframe src="https://drive.google.com/file/d/1Ols1XeoFaXQQvfumG0O_tYBMhGFBaOlv/preview" width="640" height="480" allow="autoplay"></iframe>
+    - Motion capture from webcam
+    - Host on [Glitch](https://glitch.com)
+    - Based on [Kalidokit](https://github.com/yeemachine/kalidokit) framework
 ## Course projects
 - [3D Game Technology](http://dgmm.csie.ntust.edu.tw/?ac1=courdetail_CG2012F&id=588852a473315)
     - Incremental Instant Radiosity Implementation
