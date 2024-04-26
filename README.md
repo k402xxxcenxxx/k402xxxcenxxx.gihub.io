@@ -7,9 +7,10 @@ Versatile **Site Reliability Engineer** with comprehensive experience in **manag
 ## Experience
 - Pricer AB [2023-Present]
     - Site Reliability Engineer
-        - Maintained and optimized cross-regional cloud services, enhancing system reliability and performance.
-        - Supported application development, integrating backend SLO monitoring with cloud infrastructure management.
         - Led a major workflow implementation for efficient resource migration between clusters, boosting operational effectiveness.
+        - Enhanced application development by incorporating CI/CD, setting up SLO monitoring, and implementing testing environments and procedures.
+        - Address security vulnerabilities by integrating best practices into the existing structure and introducing tools to enhance issue resolution procedures within the organization.
+        - Maintained and optimized cross-regional cloud services, enhancing system reliability, performance and observability.
         - Implemented developmental process improvements, contributing to increased productivity and system stability.
 - TSMC Corp. [2022-2023]
     - TSMC Network DevOps Engineer
